@@ -8,6 +8,8 @@ Brain tumor detection is a critical task in medical image analysis. Early and ac
 
 ## Dataset
 
+[Data set](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
+
 The dataset consists of brain MRI images, categorized into two classes:
 
 * **no_tumor:** Images of brains without tumors.
